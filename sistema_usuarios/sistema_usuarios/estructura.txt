@@ -1,0 +1,26 @@
+C:.
+│   estructura.txt
+│
+├── usuario1
+│   ├── codigo
+│   │   └── codigo.py
+│   ├── documentos
+│   │   └── informe.txt
+│   └── imagenes
+│       └── foto.png
+│
+├── usuario2
+│   ├── codigo
+│   │   └── app.js
+│   ├── documentos
+│   │   └── tareas.docx
+│   └── imagenes
+│       └── vacaciones.jpg
+│
+└── usuario3
+    ├── codigo
+    │   └── script.sh
+    ├── documentos
+    │   └── resumen.pdf
+    └── imagenes
+        └── selfie.png
